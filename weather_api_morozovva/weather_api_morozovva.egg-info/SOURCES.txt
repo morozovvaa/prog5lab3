@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+weather_api_morozovva/__init__.py
+weather_api_morozovva/weather_api_morozovva.py
+weather_api_morozovva.egg-info/PKG-INFO
+weather_api_morozovva.egg-info/SOURCES.txt
+weather_api_morozovva.egg-info/dependency_links.txt
+weather_api_morozovva.egg-info/requires.txt
+weather_api_morozovva.egg-info/top_level.txt
